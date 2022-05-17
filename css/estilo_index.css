@@ -97,9 +97,3 @@ body{
 	bottom: 50%;
 	text-shadow:  5px 5px 5px #000;
 }
- @media (max-width 800px){
- 	.card {
- 		display: flex;
-        width: 48%;
-    }
- }
